@@ -1,0 +1,2 @@
+# viteTailwind
+tailwind set up
