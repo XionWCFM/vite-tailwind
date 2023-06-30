@@ -1,12 +1,7 @@
-import { useState } from 'react';
-import './App.css';
+interface AppProps {}
 
-function App() {
-  return (
-    <div className="App">
-      <div className=" flex items-center justify-center bg-red-300">it goes Work!!</div>
-    </div>
-  );
-}
+const App = ({}: AppProps) => {
+  return <div>App</div>;
+};
 
 export default App;
